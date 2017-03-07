@@ -6,4 +6,5 @@ void dodawanie(int,int);
 void mnozenie (int, int);
 
 
+
 #endif
